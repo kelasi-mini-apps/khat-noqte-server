@@ -1,0 +1,2 @@
+# khat-noqte-server
+A realtime node.js server for khat-noqte mini-game mobile app

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kelasi-mini-apps/khat-noqte-server/issues"
   },
-  "homepage": "https://github.com/kelasi-mini-apps/khat-noqte-server#readme"
+  "homepage": "https://github.com/kelasi-mini-apps/khat-noqte-server#readme",
+  "dependencies": {
+    "rethinkdb": "^2.1.1"
+  }
 }
